@@ -1,0 +1,25 @@
+2021-05-20 09:27:14 INFO  CheckControls:14 - Sayfa açıldı
+2021-05-20 09:27:17 INFO  TestControl:31 - Giriş yapılıyor.
+2021-05-20 09:27:21 INFO  TestControl:33 - Giriş işlemi başarılı.
+2021-05-20 09:31:54 INFO  CheckControls:14 - Sayfa açıldı
+2021-05-20 09:31:58 INFO  TestControl:31 - Giriş yapılıyor.
+2021-05-20 09:32:00 INFO  TestControl:33 - Giriş işlemi başarılı.
+2021-05-20 09:34:59 INFO  CheckControls:14 - Sayfa açıldı
+2021-05-20 09:35:02 INFO  TestControl:31 - Giriş yapılıyor.
+2021-05-20 09:35:04 INFO  TestControl:33 - Giriş işlemi başarılı.
+2021-05-20 09:36:52 INFO  CheckControls:14 - Sayfa açıldı
+2021-05-20 09:36:56 INFO  TestControl:31 - Giriş yapılıyor.
+2021-05-20 09:36:59 INFO  TestControl:33 - Giriş işlemi başarılı.
+2021-05-20 09:39:00 INFO  CheckControls:14 - Sayfa açıldı
+2021-05-20 09:39:04 INFO  TestControl:31 - Giriş yapılıyor.
+2021-05-20 09:39:06 INFO  TestControl:33 - Giriş işlemi başarılı.
+2021-05-20 09:39:11 INFO  TestControl:52 - Arama yapılıyor.
+2021-05-20 09:43:44 INFO  CheckControls:14 - www.gittigidiyor.com sayfası açıldı
+2021-05-20 09:43:48 INFO  TestControl:35 - Giriş yapılıyor.
+2021-05-20 09:43:49 INFO  TestControl:37 - Giriş işlemi başarılı.
+2021-05-20 09:43:49 INFO  TestControl:38 - Giriş yapılan mail: beyzagumus64@gmail.com, Şifre: deneme123
+2021-05-20 09:45:51 INFO  CheckControls:14 - www.gittigidiyor.com sayfası açıldı
+2021-05-20 09:46:35 INFO  CheckControls:14 - www.gittigidiyor.com sayfası açıldı
+2021-05-20 09:46:40 INFO  TestControl:35 - Giriş yapılıyor.
+2021-05-20 09:46:42 INFO  TestControl:37 - Giriş işlemi başarılı.
+2021-05-20 09:46:42 INFO  TestControl:38 - Giriş yapılan mail: beyzagumus64@gmail.com, Şifre: deneme123
